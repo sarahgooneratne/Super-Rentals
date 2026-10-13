@@ -6,7 +6,7 @@ import { LinkTo } from '@ember/routing';
             <h1>SuperRentals</h1> 
         </LinkTo> 
         <div class="links"> 
-            <LinkTo @route="about" class="mmenu-about"> 
+            <LinkTo @route="about" class="menu-about"> 
                 About 
             </LinkTo>
             <LinkTo @route="contact" class="menu-contact"> 
